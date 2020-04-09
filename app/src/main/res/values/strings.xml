@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DKT Panic Button</string>
+
+    <string-array name="keluhan">
+        <item>Kecelakaan</item>
+        <item>Gagal Ginjal</item>
+        <item>Serangan Jantung</item>
+        <item>Sesak Napas</item>
+        <item>Lainnya</item>
+    </string-array>
+
+</resources>
