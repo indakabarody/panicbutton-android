@@ -6,7 +6,7 @@ Build with Android Studio
 -------------------------
 Panic Button needs access to its API. To connect to the API, please make changes to
 `public static final String URL` constant on each Java Activity to the IP or url
-where the API is placed.
+where the API is located.
 
 Where to get the API?
 -------------------------
