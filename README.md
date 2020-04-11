@@ -21,3 +21,5 @@ Telegram Notifications
 -------------------------
 To make a telegram notifications, make sure you already have a Telegram Bot and Channel. Then
 on the web API please make changes to `$url` property to your Telegram API and Telegram Channel ID.
+
+The web API controller is placed on app\Controllers\Androidapi.php .
