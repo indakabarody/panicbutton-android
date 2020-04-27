@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">DKT Panic Button</string>
+    <string name="app_name">RS Panic Button</string>
 
     <string-array name="keluhan">
         <item>Kecelakaan</item>

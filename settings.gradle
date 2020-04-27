@@ -1,2 +1,2 @@
-rootProject.name='DKT Panic Button'
+rootProject.name='RS Panic Button'
 include ':app'
