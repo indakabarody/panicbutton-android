@@ -30,6 +30,7 @@
         app:layout_constraintVertical_bias="0.15"
         android:fontFamily="@font/ubuntu_regular"
         android:text="Koordinat Anda :"
+        android:textSize="8pt"
         android:textAppearance="?android:textAppearanceLarge" />
 
     <TextView
@@ -43,6 +44,7 @@
         app:layout_constraintVertical_bias="0.20"
         android:fontFamily="@font/ubuntu_bold"
         android:text="(Kosong)"
+        android:textSize="8pt"
         android:textAppearance="?android:textAppearanceLarge" />
 
     <TextView
