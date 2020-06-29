@@ -24,7 +24,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class SettingsMenuActivity extends AppCompatActivity {
 
-    public static final String URL = "https://rspanicbuttonn.000webhostapp.com/";
+    public static final String URL = "https://panicbutton.indakabarody.com/";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

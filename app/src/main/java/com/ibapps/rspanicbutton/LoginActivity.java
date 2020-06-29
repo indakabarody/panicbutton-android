@@ -32,7 +32,7 @@ public class LoginActivity extends AppCompatActivity {
 
     boolean doubleBackToExitPressedOnce = false;
     String idUser, password;
-    public static final String URL = "https://rspanicbuttonn.000webhostapp.com/";
+    public static final String URL = "https://panicbutton.indakabarody.com/";
     @BindView(R.id.editTextIDUser) EditText editTextIDUser;
     @BindView(R.id.editTextPassword) EditText editTextPassword;
     @BindView(R.id.validasiIDUser) TextInputLayout validasiIDUser;

@@ -27,7 +27,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class ChangePasswordActivity extends AppCompatActivity {
 
     String passwordLama, password, konfirmasiPassword;
-    public static final String URL = "https://rspanicbuttonn.000webhostapp.com/";
+    public static final String URL = "https://panicbutton.indakabarody.com/";
     @BindView(R.id.editTextPasswordLama) EditText editTextPasswordLama;
     @BindView(R.id.editTextPassword) EditText editTextPassword;
     @BindView(R.id.editTextKonfirmasiPassword) EditText editTextKonfirmasiPassword;

@@ -40,7 +40,7 @@ public class ActiveButtonActivity extends AppCompatActivity {
     String latitude, longitude, keluhan, idAlarm, idUser, pesanKhusus;
     boolean notif = false;
     private static final String TAG = "ActiveButtonActivity";
-    public static final String URL = "https://rspanicbuttonn.000webhostapp.com/";
+    public static final String URL = "https://panicbutton.indakabarody.com/";
     @BindView(R.id.textViewKeluhan) TextView textViewKeluhan;
     @BindView(R.id.textViewKoordinat) TextView textViewKoordinat;
     @BindView(R.id.textViewMatikanAlarm) TextView textViewMatikanAlarm;

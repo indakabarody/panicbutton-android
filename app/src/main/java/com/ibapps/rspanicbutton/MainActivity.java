@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
     LocationManager locationManager;
     String latitude, longitude, keluhan;
     private static final String TAG = "MainActivity";
-    public static final String URL = "https://rspanicbuttonn.000webhostapp.com/";
+    public static final String URL = "https://panicbutton.indakabarody.com/";
     @BindView(R.id.spinnerKeluhan) Spinner spinnerKeluhan;
 
     @Override
